@@ -19,6 +19,9 @@ https://public.tableau.com/app/profile/sandra.mulyadi/viz/Capstone2-SandraHelenn
 **Presentation file:**
 https://docs.google.com/presentation/d/1ZYuxKgvfROLI74C9roGLPXCq_bdY0AFAE_Vn0oSue6Q/edit?usp=sharing
 
+**Video explanation file:**
+https://drive.google.com/file/d/1cdc29R903Xrd1C5fGRygg8P4fQxFoV7H/view?usp=sharing
+
 ------------------------
 **Analysis Result:**
 _How is expenditure by product categories and the association between product categories?_
